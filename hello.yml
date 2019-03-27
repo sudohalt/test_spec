@@ -1,0 +1,15 @@
+name: productPings
+description: >
+  All product pings.
+
+---
+
+name: desktopPings
+description: >
+  All dekstop pings.
+
+---
+
+name: mobilePings
+description: >
+  All mobile pings.
